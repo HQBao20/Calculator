@@ -11,7 +11,7 @@
  * @param b 
  * @return int 
  */
-int sub(int a, int b);
+uint8_t sub(uint8_t a, uint8_t b);
 
 #endif
 /*******************************************************************************
