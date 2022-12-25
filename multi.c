@@ -11,7 +11,7 @@ uint8_t multi(uint8_t a, uint8_t b)
 {
     uint8_t multi = 0;
 
-    multi = (a * b) / 2;
+    multi = a * b;
 
     return multi;
 }
