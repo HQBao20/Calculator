@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdint.h>
 #include "sum.h"
+#include "sub.h"
 
 /*******************************************************************************
  * Code
